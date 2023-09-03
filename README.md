@@ -24,3 +24,7 @@ E-mail: lyb0684@naver.com
 
 # Validation
 ![image](https://github.com/YB-LIM/Porous_Acoustic_FlowResistivity_from_Absorption_Coefficient/assets/105615106/049f6aa7-aa62-4c0a-a91f-c6a747cfec4b)
+
+# References
+![image](https://github.com/YB-LIM/Porous_Acoustic_FlowResistivity_from_Absorption_Coefficient/assets/105615106/7de9614d-a736-4a27-8e5f-7c6e16d2a0e7)
+
