@@ -1,0 +1,2 @@
+# Porous_Acoustic_FlowResistivity_from_Absorption_Coefficient
+A python script to calibrate flow resistivity from absorption coefficient data
