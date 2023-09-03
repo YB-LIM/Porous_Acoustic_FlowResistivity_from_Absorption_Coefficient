@@ -3,7 +3,7 @@ A python script to get flow resistivity for fibrous porous acoustic model
 from frequency-absorption coefficient curve obtained from impedance tube test
 
 AUTHOR: Youngbin LIM
-CONTACT: Youngbin.LIM@3ds.com
+CONTACT: lyb0684@naver.com
 
 Description on the input parameter:
 
